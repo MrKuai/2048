@@ -1,0 +1,64 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background: #E9E9E9;
+}
+
+.img_zhuye{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: 10px 0 0 20px;
+}
+
+.span_biaoti{
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 60px;
+    color: #776e65;
+}
+
+.btn_ngame{
+    background-color: #977D6D;
+    color: whitesmoke;
+    border-radius: 5px;
+    border: none;
+    width: 100px;
+    height: 35px;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+}
+
+.span_defen{
+    font-size: 22px;
+}
+
+.div_zhuti{
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin: 10px auto;
+    width: 500px;
+    height: 500px;
+    background: #B7AE9F;
+    border-radius: 8px;
+    position: relative;
+}
+
+.div_gezi{
+    background-color: #D7D1C5;
+    position: absolute;
+}
+
+.number{
+    border-radius: 5px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 100px;
+    text-align: center;
+    position: absolute;
+}
